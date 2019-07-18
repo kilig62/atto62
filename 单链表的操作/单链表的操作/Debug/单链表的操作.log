@@ -1,0 +1,17 @@
+﻿生成启动时间为 2019/7/18 13:28:52。
+     1>项目“E:\比特\单链表的操作\单链表的操作\单链表的操作.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt SList.c test.c
+         test.c
+     1>e:\比特\单链表的操作\单链表的操作\test.c(46): warning C4020: “SListPopFront”: 实参太多
+         SList.c
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\比特\单链表的操作\Debug\单链表的操作.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\比特\单链表的操作\Debug\单链表的操作.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\比特\单链表的操作\Debug\单链表的操作.lib" /MACHINE:X86 Debug\SList.obj
+         Debug\test.obj
+         单链表的操作.vcxproj -> E:\比特\单链表的操作\Debug\单链表的操作.exe
+     1>已完成生成项目“E:\比特\单链表的操作\单链表的操作\单链表的操作.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.68
