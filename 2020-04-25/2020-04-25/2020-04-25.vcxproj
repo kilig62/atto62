@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{32BC4161-A9A1-4497-8F7A-238D5D8B34CB}</ProjectGuid>
-    <RootNamespace>My20191105</RootNamespace>
+    <ProjectGuid>{5AC3E9FD-4DDD-49D5-9CE9-C97A9E13E42D}</ProjectGuid>
+    <RootNamespace>My20200425</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -64,7 +64,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="sum.c" />
     <ClCompile Include="test.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
